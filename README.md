@@ -25,12 +25,14 @@ A fully containerized data quality monitoring pipeline built with Python, Pander
 ---
 
 ## 📦 Folder Structure
-dq_pipeline/
-├── app/
-│ ├── etl.py # Fetches and stores data
-│ ├── dq_checks.py # Validates data and logs to DB
-│ └── dashboard.py # Streamlit dashboard for monitoring
-├── Dockerfile
-├── docker-compose.yml
-├── requirements.txt
-└── README.md
+``` dq_pipeline/ ├── app/ │ ├── etl.py # Fetches and stores data │ ├── dq_checks.py # Validates data and logs to DB │ └── dashboard.py # Streamlit dashboard for monitoring ├── data.csv ├── Dockerfile ├── docker-compose.yml ├── requirements.txt └── README.md ```
+
+---
+
+## 🖼 Screenshot 
+<img width="1470" alt="Screenshot 2025-07-05 at 1 15 24 PM" src="https://github.com/user-attachments/assets/6ccab11e-2bf3-48fc-a4c2-86ac73674f0c" />
+
+
+
+
+
