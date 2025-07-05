@@ -1,0 +1,6 @@
+pandas
+requests
+great_expectations
+psycopg2-binary
+streamlit
+pandera
